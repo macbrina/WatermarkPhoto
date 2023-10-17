@@ -4,7 +4,7 @@
 
 The Watermark App for Photos is a versatile and user-friendly Python application that empowers you to add customizable watermarks to your images with ease. Whether you're a photographer looking to protect your work or an individual interested in personalizing your photos, this app has got you covered.
 
-![App Screenshot](Screenshots/screenshot_7.png)
+![App Screenshot](Screenshots/Screenshot_7.png)
 
 ## Table of Contents
 
